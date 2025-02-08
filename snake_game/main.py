@@ -3,6 +3,7 @@ import random
 import sys
 from game_config import *
 
+
 class SnakeGame:
     def __init__(self):
         pygame.init()
